@@ -15,5 +15,6 @@ Revenue for Year: This line graph at the top right corner of the dashboard depic
 
 The Tableau file is displayed in "Air BnB Project.twbx" file.
 The excell dataset is in the link: https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset 
+If you cant open "Air BnB Project.twbx" file use the link: https://public.tableau.com/app/profile/farda.ahmadli/viz/AirBnBProject_17078897650320/Dashboard1
 
 This Tableau project, meticulously crafted by Ahmadli Farda, welcomes any modifications. :)

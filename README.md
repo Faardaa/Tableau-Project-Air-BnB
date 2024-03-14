@@ -1,5 +1,3 @@
-Thank you for the additional information. With this in mind, here’s an updated detailed description of your Tableau project:
-
 This Tableau project is a comprehensive analysis of housing data, providing a multi-faceted view of key metrics in an easily digestible format.
 
 1. House List: This table on the left side of the dashboard displays the count of houses categorized by the number of bedrooms. It provides a quick overview of the distribution of houses based on bedroom count. The table is filtered to exclude certain types of rooms, ensuring that the data presented is relevant and accurate.
